@@ -118,7 +118,12 @@ add at the top
 </ul>
 </div>
 ```
-wrap the rest of the elements in <div class = "container">..</div>
+wrap the rest of the elements in 
+```
+<div class = "container">
+
+</div>
+```
 
 # Now lets add some icons
 
