@@ -130,10 +130,10 @@ wrap the rest of the elements in
 open https://getbootstrap.com/docs/3.3/components/
 
 replace to this class  ```"glyphicon glyphicon-edit"``` in anchor tag
-and remove <i> tag
+and remove ```<i>``` tag
 
 replace to this class  ```"glyphicon glyphicon-trash"``` in anchor tag
-and remove <i> tag
+and remove ```<i>``` tag
 
 
 
